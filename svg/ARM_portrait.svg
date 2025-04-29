@@ -28,26 +28,26 @@
      showgrid="false"
      inkscape:zoom="0.30729167"
      inkscape:cx="499.52542"
-     inkscape:cy="611.79661"
-     inkscape:window-width="1218"
+     inkscape:cy="611.7966"
+     inkscape:window-width="956"
      inkscape:window-height="1041"
-     inkscape:window-x="698"
+     inkscape:window-x="960"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1214" />
   <path
      fill="#f2a800"
-     d="M 500,0 V 1000.4386 H 0 V 0 Z"
+     d="M 0,0 V 1000.4386 H 500 V 0 Z"
      id="path1208"
      style="stroke-width:166.703" />
   <path
      fill="#0033a0"
-     d="M 500,0 V 1000.4386 H 166.66667 V 0 Z"
+     d="M 0,0 V 1000.4386 H 333.33333 V 0 Z"
      id="path1210"
      style="stroke-width:166.703" />
   <path
      fill="#d90012"
-     d="M 500,0 V 1000.4386 H 333.33333 V 0 Z"
+     d="M 0,0 V 1000.4386 H 166.66667 V 0 Z"
      id="path1212"
      style="stroke-width:166.703" />
 </svg>

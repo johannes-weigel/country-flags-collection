@@ -24,26 +24,26 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.70238095"
-     inkscape:cx="375.15254"
-     inkscape:cy="391.52542"
-     inkscape:window-width="1340"
+     inkscape:cx="373.72881"
+     inkscape:cy="390.1017"
+     inkscape:window-width="636"
      inkscape:window-height="1041"
-     inkscape:window-x="576"
+     inkscape:window-x="384"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8" />
   <path
      fill="#ffffff"
-     d="M 500,0 V 785.71428 H 0 V 0 Z"
+     d="M 0,0 V 785.71428 H 500 V 0 Z"
      id="path2"
      style="stroke-width:23.8095" />
   <path
-     d="M 500,0 V 785.71428 H 166.66667 V 0 Z"
+     d="M 0,0 V 785.71428 H 333.33333 V 0 Z"
      id="path4"
      style="stroke-width:23.8095" />
   <path
      fill="#0072ce"
-     d="M 500,0 V 785.71428 H 333.33333 V 0 Z"
+     d="M 0,0 V 785.71428 H 166.66667 V 0 Z"
      id="path6"
      style="stroke-width:23.8095" />
 </svg>
