@@ -3,6 +3,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 1,
+      "iso3166_1_alpha_2": null,
       "name_en": "Afghanistan",
       "name_fr": "Afghanistan",
       "noc": "AFG"
@@ -10,6 +11,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 2,
+      "iso3166_1_alpha_2": null,
       "name_en": "South Africa",
       "name_fr": "Afrique du Sud",
       "noc": "RSA"
@@ -17,6 +19,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 3,
+      "iso3166_1_alpha_2": "AL",
       "name_en": "Albania",
       "name_fr": "Albanie",
       "noc": "ALB"
@@ -24,6 +27,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 4,
+      "iso3166_1_alpha_2": null,
       "name_en": "Algeria",
       "name_fr": "Algérie",
       "noc": "ALG"
@@ -31,6 +35,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 5,
+      "iso3166_1_alpha_2": "DE",
       "name_en": "Germany",
       "name_fr": "Allemagne",
       "noc": "GER"
@@ -38,6 +43,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 6,
+      "iso3166_1_alpha_2": "AD",
       "name_en": "Andorra",
       "name_fr": "Andorre",
       "noc": "AND"
@@ -45,6 +51,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 7,
+      "iso3166_1_alpha_2": null,
       "name_en": "Angola",
       "name_fr": "Angola",
       "noc": "ANG"
@@ -52,6 +59,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 8,
+      "iso3166_1_alpha_2": null,
       "name_en": "Antigua and Barbuda",
       "name_fr": "Antigua-et-Barbuda",
       "noc": "ANT"
@@ -59,6 +67,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 9,
+      "iso3166_1_alpha_2": null,
       "name_en": "Saudi Arabia",
       "name_fr": "Arabie saoudite",
       "noc": "KSA"
@@ -66,6 +75,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 10,
+      "iso3166_1_alpha_2": null,
       "name_en": "Argentina",
       "name_fr": "Argentine",
       "noc": "ARG"
@@ -73,6 +83,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 11,
+      "iso3166_1_alpha_2": "AM",
       "name_en": "Armenia",
       "name_fr": "Arménie",
       "noc": "ARM"
@@ -80,6 +91,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 12,
+      "iso3166_1_alpha_2": null,
       "name_en": "Aruba",
       "name_fr": "Aruba",
       "noc": "ARU"
@@ -87,6 +99,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 13,
+      "iso3166_1_alpha_2": null,
       "name_en": "Australia",
       "name_fr": "Australie",
       "noc": "AUS"
@@ -94,6 +107,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 14,
+      "iso3166_1_alpha_2": "AT",
       "name_en": "Austria",
       "name_fr": "Autriche",
       "noc": "AUT"
@@ -101,6 +115,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 15,
+      "iso3166_1_alpha_2": "AZ",
       "name_en": "Azerbaijan",
       "name_fr": "Azerbaïdjan",
       "noc": "AZE"
@@ -108,6 +123,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 16,
+      "iso3166_1_alpha_2": null,
       "name_en": "Bahamas",
       "name_fr": "Bahamas",
       "noc": "BAH"
@@ -115,6 +131,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 17,
+      "iso3166_1_alpha_2": null,
       "name_en": "Bahrain",
       "name_fr": "Bahreïn",
       "noc": "BRN"
@@ -122,6 +139,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 18,
+      "iso3166_1_alpha_2": null,
       "name_en": "Bangladesh",
       "name_fr": "Bangladesh",
       "noc": "BAN"
@@ -129,6 +147,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 19,
+      "iso3166_1_alpha_2": null,
       "name_en": "Barbados",
       "name_fr": "Barbade",
       "noc": "BAR"
@@ -136,6 +155,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 20,
+      "iso3166_1_alpha_2": "BY",
       "name_en": "Belarus",
       "name_fr": "Bélarus",
       "noc": "BLR"
@@ -143,6 +163,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 21,
+      "iso3166_1_alpha_2": "BE",
       "name_en": "Belgium",
       "name_fr": "Belgique",
       "noc": "BEL"
@@ -150,6 +171,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 22,
+      "iso3166_1_alpha_2": null,
       "name_en": "Belize",
       "name_fr": "Belize",
       "noc": "BIZ"
@@ -157,6 +179,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 23,
+      "iso3166_1_alpha_2": null,
       "name_en": "Benin",
       "name_fr": "Bénin",
       "noc": "BEN"
@@ -164,6 +187,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 24,
+      "iso3166_1_alpha_2": null,
       "name_en": "Bermuda",
       "name_fr": "Bermudes",
       "noc": "BER"
@@ -171,6 +195,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 25,
+      "iso3166_1_alpha_2": null,
       "name_en": "Bhutan",
       "name_fr": "Bhoutan",
       "noc": "BHU"
@@ -178,6 +203,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 26,
+      "iso3166_1_alpha_2": null,
       "name_en": "Bolivia",
       "name_fr": "Bolivie",
       "noc": "BOL"
@@ -185,6 +211,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 27,
+      "iso3166_1_alpha_2": "BA",
       "name_en": "Bosnia and Herzegovina",
       "name_fr": "Bosnie-Herzégovine",
       "noc": "BIH"
@@ -192,6 +219,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 28,
+      "iso3166_1_alpha_2": null,
       "name_en": "Botswana",
       "name_fr": "Botswana",
       "noc": "BOT"
@@ -199,6 +227,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 29,
+      "iso3166_1_alpha_2": null,
       "name_en": "Brazil",
       "name_fr": "Brésil",
       "noc": "BRA"
@@ -206,6 +235,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 30,
+      "iso3166_1_alpha_2": null,
       "name_en": "Brunei Darussalam",
       "name_fr": "Brunéi Darussalam",
       "noc": "BRU"
@@ -213,6 +243,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 31,
+      "iso3166_1_alpha_2": "BG",
       "name_en": "Bulgaria",
       "name_fr": "Bulgarie",
       "noc": "BUL"
@@ -220,6 +251,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 32,
+      "iso3166_1_alpha_2": null,
       "name_en": "Burkina Faso",
       "name_fr": "Burkina Faso",
       "noc": "BUR"
@@ -227,6 +259,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 33,
+      "iso3166_1_alpha_2": null,
       "name_en": "Burundi",
       "name_fr": "Burundi",
       "noc": "BDI"
@@ -234,6 +267,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 34,
+      "iso3166_1_alpha_2": null,
       "name_en": "Cayman Islands",
       "name_fr": "Îles Caïmans",
       "noc": "CAY"
@@ -241,6 +275,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 35,
+      "iso3166_1_alpha_2": null,
       "name_en": "Cambodia",
       "name_fr": "Cambodge",
       "noc": "CAM"
@@ -248,6 +283,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 36,
+      "iso3166_1_alpha_2": null,
       "name_en": "Cameroon",
       "name_fr": "Cameroun",
       "noc": "CMR"
@@ -255,6 +291,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 37,
+      "iso3166_1_alpha_2": null,
       "name_en": "Canada",
       "name_fr": "Canada",
       "noc": "CAN"
@@ -262,6 +299,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 38,
+      "iso3166_1_alpha_2": null,
       "name_en": "Cape Verde",
       "name_fr": "Cap-Vert",
       "noc": "CPV"
@@ -269,6 +307,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 39,
+      "iso3166_1_alpha_2": null,
       "name_en": "Central African Republic",
       "name_fr": "République centrafricaine",
       "noc": "CAF"
@@ -276,6 +315,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 40,
+      "iso3166_1_alpha_2": null,
       "name_en": "Chile",
       "name_fr": "Chili",
       "noc": "CHI"
@@ -283,6 +323,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 41,
+      "iso3166_1_alpha_2": null,
       "name_en": "People's Republic of China",
       "name_fr": "République populaire de Chine",
       "noc": "CHN"
@@ -290,6 +331,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 42,
+      "iso3166_1_alpha_2": "CY",
       "name_en": "Cyprus",
       "name_fr": "Chypre",
       "noc": "CYP"
@@ -297,6 +339,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 43,
+      "iso3166_1_alpha_2": null,
       "name_en": "Colombia",
       "name_fr": "Colombie",
       "noc": "COL"
@@ -304,6 +347,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 44,
+      "iso3166_1_alpha_2": null,
       "name_en": "Comoros",
       "name_fr": "Comores",
       "noc": "COM"
@@ -311,6 +355,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 45,
+      "iso3166_1_alpha_2": null,
       "name_en": "Congo",
       "name_fr": "Congo",
       "noc": "CGO"
@@ -318,6 +363,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 46,
+      "iso3166_1_alpha_2": null,
       "name_en": "Democratic Republic of the Congo",
       "name_fr": "République démocratique du Congo",
       "noc": "COD"
@@ -325,6 +371,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 47,
+      "iso3166_1_alpha_2": null,
       "name_en": "Cook Islands",
       "name_fr": "Îles Cook",
       "noc": "COK"
@@ -332,6 +379,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 48,
+      "iso3166_1_alpha_2": null,
       "name_en": "Republic of Korea",
       "name_fr": "République de Corée",
       "noc": "KOR"
@@ -339,6 +387,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 49,
+      "iso3166_1_alpha_2": null,
       "name_en": "Costa Rica",
       "name_fr": "Costa Rica",
       "noc": "CRC"
@@ -346,6 +395,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 50,
+      "iso3166_1_alpha_2": null,
       "name_en": "Côte d'Ivoire",
       "name_fr": "Côte d'Ivoire",
       "noc": "CIV"
@@ -353,6 +403,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 51,
+      "iso3166_1_alpha_2": "HR",
       "name_en": "Croatia",
       "name_fr": "Croatie",
       "noc": "CRO"
@@ -360,6 +411,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 52,
+      "iso3166_1_alpha_2": null,
       "name_en": "Cuba",
       "name_fr": "Cuba",
       "noc": "CUB"
@@ -367,6 +419,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 53,
+      "iso3166_1_alpha_2": "DK",
       "name_en": "Denmark",
       "name_fr": "Danemark",
       "noc": "DEN"
@@ -374,6 +427,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 54,
+      "iso3166_1_alpha_2": null,
       "name_en": "Djibouti",
       "name_fr": "Djibouti",
       "noc": "DJI"
@@ -381,6 +435,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 55,
+      "iso3166_1_alpha_2": null,
       "name_en": "Dominican Republic",
       "name_fr": "République dominicaine",
       "noc": "DOM"
@@ -388,6 +443,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 56,
+      "iso3166_1_alpha_2": null,
       "name_en": "Dominica",
       "name_fr": "Dominique",
       "noc": "DMA"
@@ -395,6 +451,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 57,
+      "iso3166_1_alpha_2": null,
       "name_en": "Egypt",
       "name_fr": "Égypte",
       "noc": "EGY"
@@ -402,6 +459,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 58,
+      "iso3166_1_alpha_2": null,
       "name_en": "El Salvador",
       "name_fr": "El Salvador",
       "noc": "ESA"
@@ -409,6 +467,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 59,
+      "iso3166_1_alpha_2": null,
       "name_en": "United Arab Emirates",
       "name_fr": "Émirats arabes unis",
       "noc": "UAE"
@@ -416,6 +475,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 60,
+      "iso3166_1_alpha_2": null,
       "name_en": "Ecuador",
       "name_fr": "Équateur",
       "noc": "ECU"
@@ -423,6 +483,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 61,
+      "iso3166_1_alpha_2": null,
       "name_en": "Eritrea",
       "name_fr": "Érythrée",
       "noc": "ERI"
@@ -430,6 +491,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 62,
+      "iso3166_1_alpha_2": "ES",
       "name_en": "Spain",
       "name_fr": "Espagne",
       "noc": "ESP"
@@ -437,6 +499,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 63,
+      "iso3166_1_alpha_2": "EE",
       "name_en": "Estonia",
       "name_fr": "Estonie",
       "noc": "EST"
@@ -444,6 +507,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 64,
+      "iso3166_1_alpha_2": null,
       "name_en": "Eswatini",
       "name_fr": "Eswatini",
       "noc": "SWZ"
@@ -451,6 +515,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 65,
+      "iso3166_1_alpha_2": null,
       "name_en": "United States of America",
       "name_fr": "États-Unis d'Amérique",
       "noc": "USA"
@@ -458,6 +523,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 66,
+      "iso3166_1_alpha_2": null,
       "name_en": "Ethiopia",
       "name_fr": "Éthiopie",
       "noc": "ETH"
@@ -465,6 +531,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 67,
+      "iso3166_1_alpha_2": null,
       "name_en": "Fiji",
       "name_fr": "Fidji",
       "noc": "FIJ"
@@ -472,6 +539,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 68,
+      "iso3166_1_alpha_2": "FI",
       "name_en": "Finland",
       "name_fr": "Finlande",
       "noc": "FIN"
@@ -479,6 +547,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 69,
+      "iso3166_1_alpha_2": "FR",
       "name_en": "France",
       "name_fr": "France",
       "noc": "FRA"
@@ -486,6 +555,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 70,
+      "iso3166_1_alpha_2": null,
       "name_en": "Gabon",
       "name_fr": "Gabon",
       "noc": "GAB"
@@ -493,6 +563,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 71,
+      "iso3166_1_alpha_2": null,
       "name_en": "Gambia",
       "name_fr": "Gambie",
       "noc": "GAM"
@@ -500,6 +571,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 72,
+      "iso3166_1_alpha_2": "GE",
       "name_en": "Georgia",
       "name_fr": "Géorgie",
       "noc": "GEO"
@@ -507,6 +579,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 73,
+      "iso3166_1_alpha_2": null,
       "name_en": "Ghana",
       "name_fr": "Ghana",
       "noc": "GHA"
@@ -514,6 +587,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 74,
+      "iso3166_1_alpha_2": "GB",
       "name_en": "Great Britain",
       "name_fr": "Grande-Bretagne",
       "noc": "GBR"
@@ -521,6 +595,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 75,
+      "iso3166_1_alpha_2": "GR",
       "name_en": "Greece",
       "name_fr": "Grèce",
       "noc": "GRE"
@@ -528,6 +603,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 76,
+      "iso3166_1_alpha_2": null,
       "name_en": "Grenada",
       "name_fr": "Grenade",
       "noc": "GRN"
@@ -535,6 +611,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 77,
+      "iso3166_1_alpha_2": null,
       "name_en": "Guam",
       "name_fr": "Guam",
       "noc": "GUM"
@@ -542,6 +619,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 78,
+      "iso3166_1_alpha_2": null,
       "name_en": "Guatemala",
       "name_fr": "Guatemala",
       "noc": "GUA"
@@ -549,6 +627,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 79,
+      "iso3166_1_alpha_2": null,
       "name_en": "Guinea",
       "name_fr": "Guinée",
       "noc": "GUI"
@@ -556,6 +635,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 80,
+      "iso3166_1_alpha_2": null,
       "name_en": "Guinea-Bissau",
       "name_fr": "Guinée-Bissau",
       "noc": "GBS"
@@ -563,6 +643,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 81,
+      "iso3166_1_alpha_2": null,
       "name_en": "Equatorial Guinea",
       "name_fr": "Guinée équatoriale",
       "noc": "GEQ"
@@ -570,6 +651,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 82,
+      "iso3166_1_alpha_2": null,
       "name_en": "Guyana",
       "name_fr": "Guyana",
       "noc": "GUY"
@@ -577,6 +659,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 83,
+      "iso3166_1_alpha_2": null,
       "name_en": "Haiti",
       "name_fr": "Haïti",
       "noc": "HAI"
@@ -584,6 +667,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 84,
+      "iso3166_1_alpha_2": null,
       "name_en": "Honduras",
       "name_fr": "Honduras",
       "noc": "HON"
@@ -591,6 +675,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 85,
+      "iso3166_1_alpha_2": null,
       "name_en": "Hong Kong, China",
       "name_fr": "Hong Kong, Chine",
       "noc": "HKG"
@@ -598,6 +683,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 86,
+      "iso3166_1_alpha_2": "HU",
       "name_en": "Hungary",
       "name_fr": "Hongrie",
       "noc": "HUN"
@@ -605,6 +691,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 87,
+      "iso3166_1_alpha_2": null,
       "name_en": "India",
       "name_fr": "Inde",
       "noc": "IND"
@@ -612,6 +699,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 88,
+      "iso3166_1_alpha_2": null,
       "name_en": "Indonesia",
       "name_fr": "Indonésie",
       "noc": "INA"
@@ -619,6 +707,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 89,
+      "iso3166_1_alpha_2": null,
       "name_en": "Islamic Republic of Iran",
       "name_fr": "République islamique d'Iran",
       "noc": "IRI"
@@ -626,6 +715,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 90,
+      "iso3166_1_alpha_2": null,
       "name_en": "Iraq",
       "name_fr": "Iraq",
       "noc": "IRQ"
@@ -633,6 +723,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 91,
+      "iso3166_1_alpha_2": "IE",
       "name_en": "Ireland",
       "name_fr": "Irlande",
       "noc": "IRL"
@@ -640,6 +731,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 92,
+      "iso3166_1_alpha_2": "IS",
       "name_en": "Iceland",
       "name_fr": "Islande",
       "noc": "ISL"
@@ -647,6 +739,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 93,
+      "iso3166_1_alpha_2": "IL",
       "name_en": "Israel",
       "name_fr": "Israël",
       "noc": "ISR"
@@ -654,6 +747,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 94,
+      "iso3166_1_alpha_2": "IT",
       "name_en": "Italy",
       "name_fr": "Italie",
       "noc": "ITA"
@@ -661,6 +755,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 95,
+      "iso3166_1_alpha_2": null,
       "name_en": "Jamaica",
       "name_fr": "Jamaïque",
       "noc": "JAM"
@@ -668,6 +763,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 96,
+      "iso3166_1_alpha_2": null,
       "name_en": "Japan",
       "name_fr": "Japon",
       "noc": "JPN"
@@ -675,6 +771,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 97,
+      "iso3166_1_alpha_2": null,
       "name_en": "Jordan",
       "name_fr": "Jordanie",
       "noc": "JOR"
@@ -682,6 +779,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 98,
+      "iso3166_1_alpha_2": null,
       "name_en": "Kazakhstan",
       "name_fr": "Kazakhstan",
       "noc": "KAZ"
@@ -689,6 +787,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 99,
+      "iso3166_1_alpha_2": null,
       "name_en": "Kenya",
       "name_fr": "Kenya",
       "noc": "KEN"
@@ -696,6 +795,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 100,
+      "iso3166_1_alpha_2": null,
       "name_en": "Kyrgyzstan",
       "name_fr": "Kirghizistan",
       "noc": "KGZ"
@@ -703,6 +803,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 101,
+      "iso3166_1_alpha_2": null,
       "name_en": "Kiribati",
       "name_fr": "Kiribati",
       "noc": "KIR"
@@ -710,6 +811,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 102,
+      "iso3166_1_alpha_2": "XK",
       "name_en": "Kosovo",
       "name_fr": "Kosovo",
       "noc": "KOS"
@@ -717,6 +819,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 103,
+      "iso3166_1_alpha_2": null,
       "name_en": "Kuwait",
       "name_fr": "Koweït",
       "noc": "KUW"
@@ -724,6 +827,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 104,
+      "iso3166_1_alpha_2": null,
       "name_en": "Lao People's Democratic Republic",
       "name_fr": "République démocratique populaire lao",
       "noc": "LAO"
@@ -731,6 +835,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 105,
+      "iso3166_1_alpha_2": null,
       "name_en": "Lesotho",
       "name_fr": "Lesotho",
       "noc": "LES"
@@ -738,6 +843,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 106,
+      "iso3166_1_alpha_2": "LV",
       "name_en": "Latvia",
       "name_fr": "Lettonie",
       "noc": "LAT"
@@ -745,6 +851,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 107,
+      "iso3166_1_alpha_2": null,
       "name_en": "Lebanon",
       "name_fr": "Liban",
       "noc": "LBN"
@@ -752,6 +859,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 108,
+      "iso3166_1_alpha_2": null,
       "name_en": "Liberia",
       "name_fr": "Libéria",
       "noc": "LBR"
@@ -759,6 +867,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 109,
+      "iso3166_1_alpha_2": null,
       "name_en": "Libya",
       "name_fr": "Libye",
       "noc": "LBA"
@@ -766,6 +875,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 110,
+      "iso3166_1_alpha_2": "LI",
       "name_en": "Liechtenstein",
       "name_fr": "Liechtenstein",
       "noc": "LIE"
@@ -773,6 +883,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 111,
+      "iso3166_1_alpha_2": "LT",
       "name_en": "Lithuania",
       "name_fr": "Lituanie",
       "noc": "LTU"
@@ -780,6 +891,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 112,
+      "iso3166_1_alpha_2": "LU",
       "name_en": "Luxembourg",
       "name_fr": "Luxembourg",
       "noc": "LUX"
@@ -787,6 +899,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 113,
+      "iso3166_1_alpha_2": "MK",
       "name_en": "Republic of North Macedonia",
       "name_fr": "République de Macédoine du Nord",
       "noc": "MKD"
@@ -794,6 +907,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 114,
+      "iso3166_1_alpha_2": null,
       "name_en": "Madagascar",
       "name_fr": "Madagascar",
       "noc": "MAD"
@@ -801,6 +915,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 115,
+      "iso3166_1_alpha_2": null,
       "name_en": "Malaysia",
       "name_fr": "Malaisie",
       "noc": "MAS"
@@ -808,6 +923,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 116,
+      "iso3166_1_alpha_2": null,
       "name_en": "Malawi",
       "name_fr": "Malawi",
       "noc": "MAW"
@@ -815,6 +931,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 117,
+      "iso3166_1_alpha_2": null,
       "name_en": "Maldives",
       "name_fr": "Maldives",
       "noc": "MDV"
@@ -822,6 +939,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 118,
+      "iso3166_1_alpha_2": null,
       "name_en": "Mali",
       "name_fr": "Mali",
       "noc": "MLI"
@@ -829,6 +947,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 119,
+      "iso3166_1_alpha_2": "MT",
       "name_en": "Malta",
       "name_fr": "Malte",
       "noc": "MLT"
@@ -836,6 +955,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 120,
+      "iso3166_1_alpha_2": null,
       "name_en": "Morocco",
       "name_fr": "Maroc",
       "noc": "MAR"
@@ -843,6 +963,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 121,
+      "iso3166_1_alpha_2": null,
       "name_en": "Marshall Islands",
       "name_fr": "Îles Marshall",
       "noc": "MHL"
@@ -850,6 +971,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 122,
+      "iso3166_1_alpha_2": null,
       "name_en": "Mauritius",
       "name_fr": "Maurice",
       "noc": "MRI"
@@ -857,6 +979,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 123,
+      "iso3166_1_alpha_2": null,
       "name_en": "Mauritania",
       "name_fr": "Mauritanie",
       "noc": "MTN"
@@ -864,6 +987,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 124,
+      "iso3166_1_alpha_2": null,
       "name_en": "Mexico",
       "name_fr": "Mexique",
       "noc": "MEX"
@@ -871,6 +995,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 125,
+      "iso3166_1_alpha_2": null,
       "name_en": "Federated States of Micronesia",
       "name_fr": "États fédérés de Micronésie",
       "noc": "FSM"
@@ -878,6 +1003,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 126,
+      "iso3166_1_alpha_2": "MD",
       "name_en": "Republic of Moldova",
       "name_fr": "République de Moldova",
       "noc": "MDA"
@@ -885,6 +1011,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 127,
+      "iso3166_1_alpha_2": "MC",
       "name_en": "Monaco",
       "name_fr": "Monaco",
       "noc": "MON"
@@ -892,6 +1019,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 128,
+      "iso3166_1_alpha_2": null,
       "name_en": "Mongolia",
       "name_fr": "Mongolie",
       "noc": "MGL"
@@ -899,6 +1027,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 129,
+      "iso3166_1_alpha_2": "ME",
       "name_en": "Montenegro",
       "name_fr": "Monténégro",
       "noc": "MNE"
@@ -906,6 +1035,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 130,
+      "iso3166_1_alpha_2": null,
       "name_en": "Mozambique",
       "name_fr": "Mozambique",
       "noc": "MOZ"
@@ -913,6 +1043,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 131,
+      "iso3166_1_alpha_2": null,
       "name_en": "Myanmar",
       "name_fr": "Myanmar",
       "noc": "MYA"
@@ -920,6 +1051,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 132,
+      "iso3166_1_alpha_2": null,
       "name_en": "Namibia",
       "name_fr": "Namibie",
       "noc": "NAM"
@@ -927,6 +1059,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 133,
+      "iso3166_1_alpha_2": null,
       "name_en": "Nauru",
       "name_fr": "Nauru",
       "noc": "NRU"
@@ -934,6 +1067,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 134,
+      "iso3166_1_alpha_2": null,
       "name_en": "Nepal",
       "name_fr": "Népal",
       "noc": "NEP"
@@ -941,6 +1075,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 135,
+      "iso3166_1_alpha_2": null,
       "name_en": "Nicaragua",
       "name_fr": "Nicaragua",
       "noc": "NCA"
@@ -948,6 +1083,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 136,
+      "iso3166_1_alpha_2": null,
       "name_en": "Niger",
       "name_fr": "Niger",
       "noc": "NIG"
@@ -955,6 +1091,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 137,
+      "iso3166_1_alpha_2": null,
       "name_en": "Nigeria",
       "name_fr": "Nigéria",
       "noc": "NGR"
@@ -962,6 +1099,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 138,
+      "iso3166_1_alpha_2": "NO",
       "name_en": "Norway",
       "name_fr": "Norvège",
       "noc": "NOR"
@@ -969,6 +1107,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 139,
+      "iso3166_1_alpha_2": null,
       "name_en": "New Zealand",
       "name_fr": "Nouvelle-Zélande",
       "noc": "NZL"
@@ -976,6 +1115,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 140,
+      "iso3166_1_alpha_2": null,
       "name_en": "Oman",
       "name_fr": "Oman",
       "noc": "OMA"
@@ -983,6 +1123,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 141,
+      "iso3166_1_alpha_2": null,
       "name_en": "Uganda",
       "name_fr": "Ouganda",
       "noc": "UGA"
@@ -990,6 +1131,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 142,
+      "iso3166_1_alpha_2": null,
       "name_en": "Uzbekistan",
       "name_fr": "Ouzbékistan",
       "noc": "UZB"
@@ -997,6 +1139,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 143,
+      "iso3166_1_alpha_2": null,
       "name_en": "Pakistan",
       "name_fr": "Pakistan",
       "noc": "PAK"
@@ -1004,6 +1147,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 144,
+      "iso3166_1_alpha_2": null,
       "name_en": "Palau",
       "name_fr": "Palaos",
       "noc": "PLW"
@@ -1011,6 +1155,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 145,
+      "iso3166_1_alpha_2": null,
       "name_en": "Palestine",
       "name_fr": "Palestine",
       "noc": "PLE"
@@ -1018,6 +1163,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 146,
+      "iso3166_1_alpha_2": null,
       "name_en": "Panama",
       "name_fr": "Panama",
       "noc": "PAN"
@@ -1025,6 +1171,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 147,
+      "iso3166_1_alpha_2": null,
       "name_en": "Papua New Guinea",
       "name_fr": "Papouasie-Nouvelle-Guinée",
       "noc": "PNG"
@@ -1032,6 +1179,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 148,
+      "iso3166_1_alpha_2": null,
       "name_en": "Paraguay",
       "name_fr": "Paraguay",
       "noc": "PAR"
@@ -1039,6 +1187,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 149,
+      "iso3166_1_alpha_2": "NL",
       "name_en": "Netherlands",
       "name_fr": "Pays-Bas",
       "noc": "NED"
@@ -1046,6 +1195,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 150,
+      "iso3166_1_alpha_2": null,
       "name_en": "Peru",
       "name_fr": "Pérou",
       "noc": "PER"
@@ -1053,6 +1203,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 151,
+      "iso3166_1_alpha_2": null,
       "name_en": "Philippines",
       "name_fr": "Philippines",
       "noc": "PHI"
@@ -1060,6 +1211,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 152,
+      "iso3166_1_alpha_2": "PL",
       "name_en": "Poland",
       "name_fr": "Pologne",
       "noc": "POL"
@@ -1067,6 +1219,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 153,
+      "iso3166_1_alpha_2": null,
       "name_en": "Puerto Rico",
       "name_fr": "Porto Rico",
       "noc": "PUR"
@@ -1074,6 +1227,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 154,
+      "iso3166_1_alpha_2": "PT",
       "name_en": "Portugal",
       "name_fr": "Portugal",
       "noc": "POR"
@@ -1081,6 +1235,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 155,
+      "iso3166_1_alpha_2": null,
       "name_en": "Qatar",
       "name_fr": "Qatar",
       "noc": "QAT"
@@ -1088,6 +1243,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 156,
+      "iso3166_1_alpha_2": null,
       "name_en": "Democratic People's Republic of Korea",
       "name_fr": "République populaire démocratique de Corée",
       "noc": "PRK"
@@ -1095,6 +1251,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 157,
+      "iso3166_1_alpha_2": "RO",
       "name_en": "Romania",
       "name_fr": "Roumanie",
       "noc": "ROU"
@@ -1102,6 +1259,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 158,
+      "iso3166_1_alpha_2": "RU",
       "name_en": "Russian Federation",
       "name_fr": "Fédération de Russie",
       "noc": "RUS"
@@ -1109,6 +1267,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 159,
+      "iso3166_1_alpha_2": null,
       "name_en": "Rwanda",
       "name_fr": "Rwanda",
       "noc": "RWA"
@@ -1116,6 +1275,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 160,
+      "iso3166_1_alpha_2": null,
       "name_en": "Saint Kitts and Nevis",
       "name_fr": "Saint-Kitts-et-Nevis",
       "noc": "SKN"
@@ -1123,6 +1283,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 161,
+      "iso3166_1_alpha_2": null,
       "name_en": "Saint Lucia",
       "name_fr": "Sainte-Lucie",
       "noc": "LCA"
@@ -1130,6 +1291,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 162,
+      "iso3166_1_alpha_2": "SM",
       "name_en": "San Marino",
       "name_fr": "Saint-Marin",
       "noc": "SMR"
@@ -1137,6 +1299,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 163,
+      "iso3166_1_alpha_2": null,
       "name_en": "St Vincent and the Grenadines",
       "name_fr": "Saint-Vincent-et-les-Grenadines",
       "noc": "VIN"
@@ -1144,6 +1307,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 164,
+      "iso3166_1_alpha_2": null,
       "name_en": "Solomon Islands",
       "name_fr": "Îles Salomon",
       "noc": "SOL"
@@ -1151,6 +1315,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 165,
+      "iso3166_1_alpha_2": null,
       "name_en": "Samoa",
       "name_fr": "Samoa",
       "noc": "SAM"
@@ -1158,6 +1323,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 166,
+      "iso3166_1_alpha_2": null,
       "name_en": "American Samoa",
       "name_fr": "Samoa américaines",
       "noc": "ASA"
@@ -1165,6 +1331,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 167,
+      "iso3166_1_alpha_2": null,
       "name_en": "Sao Tome and Principe",
       "name_fr": "Sao Tomé-et-Principe",
       "noc": "STP"
@@ -1172,6 +1339,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 168,
+      "iso3166_1_alpha_2": null,
       "name_en": "Senegal",
       "name_fr": "Sénégal",
       "noc": "SEN"
@@ -1179,6 +1347,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 169,
+      "iso3166_1_alpha_2": "RS",
       "name_en": "Serbia",
       "name_fr": "Serbie",
       "noc": "SRB"
@@ -1186,6 +1355,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 170,
+      "iso3166_1_alpha_2": null,
       "name_en": "Seychelles",
       "name_fr": "Seychelles",
       "noc": "SEY"
@@ -1193,6 +1363,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 171,
+      "iso3166_1_alpha_2": null,
       "name_en": "Sierra Leone",
       "name_fr": "Sierra Leone",
       "noc": "SLE"
@@ -1200,6 +1371,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 172,
+      "iso3166_1_alpha_2": null,
       "name_en": "Singapore",
       "name_fr": "Singapour",
       "noc": "SGP"
@@ -1207,6 +1379,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 173,
+      "iso3166_1_alpha_2": "SK",
       "name_en": "Slovakia",
       "name_fr": "Slovaquie",
       "noc": "SVK"
@@ -1214,6 +1387,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 174,
+      "iso3166_1_alpha_2": "SI",
       "name_en": "Slovenia",
       "name_fr": "Slovénie",
       "noc": "SLO"
@@ -1221,6 +1395,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 175,
+      "iso3166_1_alpha_2": null,
       "name_en": "Somalia",
       "name_fr": "Somalie",
       "noc": "SOM"
@@ -1228,6 +1403,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 176,
+      "iso3166_1_alpha_2": null,
       "name_en": "South Sudan",
       "name_fr": "Soudan du Sud",
       "noc": "SSD"
@@ -1235,6 +1411,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 177,
+      "iso3166_1_alpha_2": null,
       "name_en": "Sudan",
       "name_fr": "Soudan",
       "noc": "SUD"
@@ -1242,6 +1419,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 178,
+      "iso3166_1_alpha_2": null,
       "name_en": "Sri Lanka",
       "name_fr": "Sri Lanka",
       "noc": "SRI"
@@ -1249,6 +1427,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 179,
+      "iso3166_1_alpha_2": "SE",
       "name_en": "Sweden",
       "name_fr": "Suède",
       "noc": "SWE"
@@ -1256,6 +1435,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 180,
+      "iso3166_1_alpha_2": "CH",
       "name_en": "Switzerland",
       "name_fr": "Suisse",
       "noc": "SUI"
@@ -1263,6 +1443,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 181,
+      "iso3166_1_alpha_2": null,
       "name_en": "Suriname",
       "name_fr": "Suriname",
       "noc": "SUR"
@@ -1270,6 +1451,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 182,
+      "iso3166_1_alpha_2": null,
       "name_en": "Syrian Arab Republic",
       "name_fr": "République arabe syrienne",
       "noc": "SYR"
@@ -1277,6 +1459,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 183,
+      "iso3166_1_alpha_2": null,
       "name_en": "Tajikistan",
       "name_fr": "Tadjikistan",
       "noc": "TJK"
@@ -1284,6 +1467,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 184,
+      "iso3166_1_alpha_2": null,
       "name_en": "Chinese Taipei",
       "name_fr": "Chinese Taipei",
       "noc": "TPE"
@@ -1291,6 +1475,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 185,
+      "iso3166_1_alpha_2": null,
       "name_en": "United Republic of Tanzania",
       "name_fr": "République-Unie de Tanzanie",
       "noc": "TAN"
@@ -1298,6 +1483,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 186,
+      "iso3166_1_alpha_2": null,
       "name_en": "Chad",
       "name_fr": "Tchad",
       "noc": "CHA"
@@ -1305,6 +1491,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 187,
+      "iso3166_1_alpha_2": "CZ",
       "name_en": "Czech Republic",
       "name_fr": "République tchèque",
       "noc": "CZE"
@@ -1312,6 +1499,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 188,
+      "iso3166_1_alpha_2": null,
       "name_en": "Thailand",
       "name_fr": "Thaïlande",
       "noc": "THA"
@@ -1319,6 +1507,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 189,
+      "iso3166_1_alpha_2": null,
       "name_en": "Democratic Republic of Timor-Leste",
       "name_fr": "République démocratique du Timor-Leste",
       "noc": "TLS"
@@ -1326,6 +1515,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 190,
+      "iso3166_1_alpha_2": null,
       "name_en": "Togo",
       "name_fr": "Togo",
       "noc": "TOG"
@@ -1333,6 +1523,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 191,
+      "iso3166_1_alpha_2": null,
       "name_en": "Tonga",
       "name_fr": "Tonga",
       "noc": "TGA"
@@ -1340,6 +1531,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 192,
+      "iso3166_1_alpha_2": null,
       "name_en": "Trinidad and Tobago",
       "name_fr": "Trinité-et-Tobago",
       "noc": "TTO"
@@ -1347,6 +1539,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 193,
+      "iso3166_1_alpha_2": null,
       "name_en": "Tunisia",
       "name_fr": "Tunisie",
       "noc": "TUN"
@@ -1354,6 +1547,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 194,
+      "iso3166_1_alpha_2": null,
       "name_en": "Turkmenistan",
       "name_fr": "Turkménistan",
       "noc": "TKM"
@@ -1361,6 +1555,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 195,
+      "iso3166_1_alpha_2": "TR",
       "name_en": "Turkey",
       "name_fr": "Turquie",
       "noc": "TUR"
@@ -1368,6 +1563,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 196,
+      "iso3166_1_alpha_2": null,
       "name_en": "Tuvalu",
       "name_fr": "Tuvalu",
       "noc": "TUV"
@@ -1375,6 +1571,7 @@
     {
       "continental_association": "Europe",
       "ioc_sort": 197,
+      "iso3166_1_alpha_2": "UA",
       "name_en": "Ukraine",
       "name_fr": "Ukraine",
       "noc": "UKR"
@@ -1382,6 +1579,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 198,
+      "iso3166_1_alpha_2": null,
       "name_en": "Uruguay",
       "name_fr": "Uruguay",
       "noc": "URU"
@@ -1389,6 +1587,7 @@
     {
       "continental_association": "Oceania",
       "ioc_sort": 199,
+      "iso3166_1_alpha_2": null,
       "name_en": "Vanuatu",
       "name_fr": "Vanuatu",
       "noc": "VAN"
@@ -1396,6 +1595,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 200,
+      "iso3166_1_alpha_2": null,
       "name_en": "Venezuela",
       "name_fr": "Venezuela",
       "noc": "VEN"
@@ -1403,6 +1603,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 201,
+      "iso3166_1_alpha_2": null,
       "name_en": "Virgin Islands, British",
       "name_fr": "Îles Vierges britanniques",
       "noc": "IVB"
@@ -1410,6 +1611,7 @@
     {
       "continental_association": "Americas",
       "ioc_sort": 202,
+      "iso3166_1_alpha_2": null,
       "name_en": "Virgin Islands, US",
       "name_fr": "Îles Vierges des États-Unis",
       "noc": "ISV"
@@ -1417,6 +1619,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 203,
+      "iso3166_1_alpha_2": null,
       "name_en": "Vietnam",
       "name_fr": "Viet Nam",
       "noc": "VIE"
@@ -1424,6 +1627,7 @@
     {
       "continental_association": "Asia",
       "ioc_sort": 204,
+      "iso3166_1_alpha_2": null,
       "name_en": "Yemen",
       "name_fr": "Yémen",
       "noc": "YEM"
@@ -1431,6 +1635,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 205,
+      "iso3166_1_alpha_2": null,
       "name_en": "Zambia",
       "name_fr": "Zambie",
       "noc": "ZAM"
@@ -1438,6 +1643,7 @@
     {
       "continental_association": "Africa",
       "ioc_sort": 206,
+      "iso3166_1_alpha_2": null,
       "name_en": "Zimbabwe",
       "name_fr": "Zimbabwe",
       "noc": "ZIM"
