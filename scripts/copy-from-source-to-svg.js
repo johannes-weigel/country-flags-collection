@@ -1,13 +1,13 @@
 const fs = require("fs");
 const path = require("path");
 
-const metadataPath = path.join(__dirname, "..", "metadata.json");
-const sourceDir = path.join(__dirname, "..", "src", "svg");
+const metadataPath = path.join(__dirname, "..", "names", "data.json");
+const sourceDir = path.join(__dirname, "..", "source", "svg");
 const targetDir = path.join(__dirname, "..", "svg");
 
 const metadata = JSON.parse(fs.readFileSync(metadataPath, "utf-8"));
 if (!metadata.countries || !Array.isArray(metadata.countries)) {
-  console.error('metadata.json does not contain a valid "countries" array.');
+  console.error('data.json does not contain a valid "countries" array.');
   process.exit(1);
 }
 

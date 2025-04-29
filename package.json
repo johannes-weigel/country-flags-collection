@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "European country flags (SVG/PNG) using IOC codes, in official and standardized formats, derived from hampusborgos/country-flags.",
   "scripts": {
-    "flags:copy": "node scripts/copy-from-src-to-svg.js",
+    "flags:copy": "node scripts/copy-from-source-to-svg.js",
     "flags:render": "node scripts/render-from-svg-to-png.js"
   },
   "repository": {

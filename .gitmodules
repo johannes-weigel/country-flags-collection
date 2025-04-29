@@ -1,3 +1,6 @@
-[submodule "src"]
-	path = src
+[submodule "names"]
+	path = names
+	url = git@github.com:johannes-weigel/country-names-collection.git
+[submodule "source"]
+	path = source
 	url = https://github.com/hampusborgos/country-flags.git
