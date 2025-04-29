@@ -27,7 +27,7 @@ The flags are prepared in line with common **IOC protocol conventions**, especia
   - **Standardized**: Adjusted to a **uniform aspect ratio** (3:2) for consistent display across different flags.
 
 - **Metadata**:  
-  A JSON file (`metadata.json`) provides metadata for each country. Countries are identified by their **IOC codes** (International Olympic Committee country codes).
+  A JSON file (`metadata.json`) provides metadata for each country. Countries are identified by their **IOC codes** (International Olympic Committee country codes). It is parsed from the file [National Olympic Committees](https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Documents/National-Olympic-Committees/List-of-National-Olympic-Committees-in-IOC-Protocol-Order.pdf) provided by the IOC (from 05/2019).
 
 - **Naming Convention**:  
   Files are named using the country code, style, and orientation, for example:
