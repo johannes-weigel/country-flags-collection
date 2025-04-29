@@ -900,8 +900,8 @@
       "continental_association": "Europe",
       "ioc_sort": 113,
       "iso3166_1_alpha_2": "MK",
-      "name_en": "Republic of North Macedonia",
-      "name_fr": "République de Macédoine du Nord",
+      "name_en": "North Macedonia",
+      "name_fr": "Macédoine du Nord",
       "noc": "MKD"
     },
     {
@@ -1492,8 +1492,8 @@
       "continental_association": "Europe",
       "ioc_sort": 187,
       "iso3166_1_alpha_2": "CZ",
-      "name_en": "Czech Republic",
-      "name_fr": "République tchèque",
+      "name_en": "Czechia",
+      "name_fr": "Tchèquie",
       "noc": "CZE"
     },
     {
@@ -1556,8 +1556,8 @@
       "continental_association": "Europe",
       "ioc_sort": 195,
       "iso3166_1_alpha_2": "TR",
-      "name_en": "Turkey",
-      "name_fr": "Turquie",
+      "name_en": "Türkiye",
+      "name_fr": "Türkiye",
       "noc": "TUR"
     },
     {
