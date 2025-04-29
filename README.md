@@ -13,6 +13,12 @@ The flags are prepared in line with common **IOC protocol conventions**, especia
 
 - **Formats**:  
   Flags are available in both **SVG** (vector) and **PNG** (bitmap) formats.
+  PNGs are provided with widths of:
+
+  - 512px: for UI/Document Elements
+  - 1024px: for HD Screens
+  - 2048px: for Full-HD Screens
+  - 4096px: for 4K-Screens
 
 - **Variants**:  
   Each flag may exist in three variants:
@@ -25,9 +31,10 @@ The flags are prepared in line with common **IOC protocol conventions**, especia
 
 - **Naming Convention**:  
   Files are named using the country code, style, and orientation, for example:
-  - `GER_official.svg`: As provided by the source-project
-  - `GER_landscape.svg`: Transformed to 3:2 ratio (horizontally)
-  - `GER_portrait.svg`: Transformed to 3:2 ratio and rotated (vertically)
+  - `svg/GER_official.svg`: As provided by the source-project
+  - `svg/GER_landscape.svg`: Transformed to 3:2 ratio (horizontally)
+  - `svg/GER_portrait.svg`: Transformed to 3:2 ratio and rotated (vertically)
+  - `png/GER_(official|landscape|portrait)-(512|1024|2048|4096).png`: Rendered versions of all svg files in different resolutions
 
 ## Usage
 
