@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "European country flags (SVG/PNG) using IOC codes, in official and standardized formats, derived from hampusborgos/country-flags.",
   "scripts": {
-    "copy:flags": "node scripts/copy-flags.js"
+    "copy:flags": "node scripts/copy-flags.js",
+    "aspect:transform": "node scripts/transform-aspect.js"
   },
   "repository": {
     "type": "git",
@@ -26,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/johannes-weigel/national-flags-dataset/issues"
   },
-  "homepage": "https://github.com/johannes-weigel/national-flags-dataset#readme"
+  "homepage": "https://github.com/johannes-weigel/national-flags-dataset#readme",
+  "dependencies": {
+    "jsdom": "^26.1.0"
+  }
 }
