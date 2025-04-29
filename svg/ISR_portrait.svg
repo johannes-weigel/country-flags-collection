@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 500 750"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="ISR_portrait.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   width="500"
+   height="750"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.59"
+     inkscape:cx="692.37288"
+     inkscape:cy="483.05085"
+     inkscape:window-width="1340"
+     inkscape:window-height="1041"
+     inkscape:window-x="576"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     d="M 500,0 V 750 H 0 V 0 Z"
+     fill="#ffffff"
+     id="path2"
+     style="stroke-width:0.652791" />
+  <path
+     d="M 453.125,0 V 750 H 374.79795 V 0 Z M 124.15138,0 V 750 H 45.82433 V 0 Z"
+     fill="#0038b8"
+     id="path4"
+     style="stroke-width:0.653635" />
+  <path
+     d="m 204.46688,296.13478 v 157.73001 l 136.59875,-78.86501 z m -45.5325,78.865 136.59875,78.86501 V 296.13478 Z"
+     fill="none"
+     stroke="#0038b8"
+     stroke-width="17.1875"
+     id="path6" />
+</svg>

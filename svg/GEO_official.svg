@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 300 200"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="GEO_official.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.18"
+     inkscape:cx="150.42373"
+     inkscape:cy="100"
+     inkscape:window-width="1340"
+     inkscape:window-height="1041"
+     inkscape:window-x="576"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" />
+  <defs
+     id="defs9">
+    <g
+       id="c">
+      <clipPath
+         id="a">
+        <path
+           d="M-109 104a104 104 0 000-208h218a104 104 0 000 208z"
+           id="path2" />
+      </clipPath>
+      <path
+         id="b"
+         d="M-55 74a55 55 0 01110 0V-74a55 55 0 01-110 0z"
+         clip-path="url(#a)" />
+      <use
+         xlink:href="#b"
+         transform="rotate(90)"
+         id="use6" />
+    </g>
+  </defs>
+  <path
+     fill="#fff"
+     d="M0 0h300v200H0z"
+     id="path11" />
+  <path
+     d="M130 0v80H0v40h130v80h40v-80h130V80H170V0h-40z"
+     fill="red"
+     id="path13" />
+  <use
+     xlink:href="#c"
+     transform="translate(64.45 39.45)"
+     fill="red"
+     id="use15" />
+  <use
+     xlink:href="#c"
+     transform="translate(235.55 160.55)"
+     fill="red"
+     id="use17" />
+  <use
+     xlink:href="#c"
+     transform="translate(235.55 39.45)"
+     fill="red"
+     id="use19" />
+  <use
+     xlink:href="#c"
+     transform="translate(64.45 160.55)"
+     fill="red"
+     id="use21" />
+</svg>

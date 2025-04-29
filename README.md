@@ -14,27 +14,20 @@ The flags are prepared in line with common **IOC protocol conventions**, especia
 - **Formats**:  
   Flags are available in both **SVG** (vector) and **PNG** (bitmap) formats.
 
-- **Orientations**:  
-  Each flag may exist in two variants:
-
-  - **Landscape** (horizontal)
-  - **Portrait** (vertical)
-
-- **Style Variants**:  
-  Each flag can be available in two different styles:
+- **Variants**:  
+  Each flag may exist in three variants:
 
   - **Official**: Based on the official national design, using the country's standard proportions.
-  - **Standardized**: Adjusted to a **uniform aspect ratio** (3:2) for consistent display across different flags.
+  - **Standardized Landscape** (horizontal) and **Standardized Portrait** (vertical): Adjusted to a **uniform aspect ratio** (3:2) for consistent display across different flags.
 
 - **Metadata**:  
   A JSON file (`metadata.json`) provides metadata for each country. Countries are identified by their **IOC codes** (International Olympic Committee country codes). It is parsed from the file [National Olympic Committees](https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Documents/National-Olympic-Committees/List-of-National-Olympic-Committees-in-IOC-Protocol-Order.pdf) provided by the IOC (from 05/2019) with updated names for the European Countries according to the Flags Manual for the Olympic and Paralymic Games Paris 2024.
 
 - **Naming Convention**:  
   Files are named using the country code, style, and orientation, for example:
-  - `GER_official_landscape.svg`
-  - `GER_standardized_landscape.png`
-  - `GER_official_portrait.svg`
-  - `GER_standardized_portrait.png`
+  - `GER_official.svg`: As provided by the source-project
+  - `GER_landscape.svg`: Transformed to 3:2 ratio (horizontally)
+  - `GER_portrait.svg`: Transformed to 3:2 ratio and rotated (vertically)
 
 ## Usage
 
